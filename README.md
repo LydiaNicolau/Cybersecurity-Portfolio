@@ -1,7 +1,7 @@
 # Cybersecurity-Portfolio
 
 # Education
-- The University of Rhode Island
+### The University of Rhode Island
 - Computer Science B.A.
 - Public and Professional Writing B.A.
 - Communication Studies B.A.
@@ -15,6 +15,6 @@
 - This project includes my professional statement including strengths, focuses, and goals for prioritizing security.
 - [Professional Statement](https://docs.google.com/document/d/1qMoYdwqdqjFuE8sZ0zgcUbma0yjiIUg551lLF1stUx4/edit?usp=sharing)
 
-### Project 2
-- Description
-- Links
+#Project 2
+#Description
+#Links
