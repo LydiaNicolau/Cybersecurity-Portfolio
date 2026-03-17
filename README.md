@@ -19,6 +19,10 @@
 - This project showcases my capabilities of performing a security audit for my respective company.
 - [Security Audit](https://docs.google.com/document/d/16gKIHv7fEyTxCIbPI2t4H-PqXuTw7QDZHtF-fUU7Peg/edit?usp=sharing)
 
-### Project 3 - Incident Report
+### Project 3 - Incident Report: Network Traffic Analysis
 - This project highlights my ability to detect issues and their causes in network traffic during a security event.
-- [Incident Report](https://docs.google.com/document/d/1sfIkK1jucKp4NJKKbu3oyXCAnK4VFqwaA-r1gQUm3fw/edit?usp=sharing)
+- [Incident Report: Network Traffic Analysis](https://docs.google.com/document/d/1sfIkK1jucKp4NJKKbu3oyXCAnK4VFqwaA-r1gQUm3fw/edit?usp=sharing)
+
+### Project 4 - Incident Report: Network Attack
+- In this project I showcase my ability to detect an ongoing attack, determine the kind of attack, and how to report on the incident that occured. 
+- [Incident Report: Network Attack](https://docs.google.com/document/d/1e6dwbTQ9XEo34EhkklJ9WgzkxjLcbwg_ln6RnbIiTNs/edit?usp=sharing)
