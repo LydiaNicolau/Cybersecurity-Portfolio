@@ -26,3 +26,8 @@
 ### Project 4 - Incident Report: Network Attack
 - In this project I showcase my ability to detect an ongoing attack, determine the kind of attack, and how to report on the incident that occured. 
 - [Incident Report: Network Attack](https://docs.google.com/document/d/1e6dwbTQ9XEo34EhkklJ9WgzkxjLcbwg_ln6RnbIiTNs/edit?usp=sharing)
+
+### Project 5 - Incident Report: OS Hardening
+- In this project I discovered an ongoing attack taking place and referred to the tcpdump traffic log to determine the threat.
+- [Incident Report: OS Hardening](https://docs.google.com/document/d/1I2KuZ2H_rHMcM6M-D3Vwt6qNAnIrjruDIwG2Gainf88/edit?usp=sharing)
+
