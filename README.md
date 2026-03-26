@@ -27,6 +27,10 @@
 - In this project I worked with Linux to give and take away permissions to users, groups, and others, per my organizations request. 
 - [Permissions In Linux](https://docs.google.com/document/d/1VZ-gNEL7BWKnu1ozmA5sbsFUWFcCnW_AklDqLYM5cAg/edit?usp=sharing)
 
+### Project 5 - Applying Filters To SQL Queries
+- This project displays my ability to utilize SQL within an organizations database to quickly find necessary information.
+- [Apply Filters To SQL Queries](https://docs.google.com/document/d/10k_jzFIuJCZJvj2DfEiclvU5fbhG4c4c-4J57I7jO-M/edit?usp=sharing)
+
 # Relative Assignments
 ### Assignment 1 - Incident Report: Network Traffic Analysis
 - This assignment highlights my ability to detect issues and their causes in network traffic during a security event.
