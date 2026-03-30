@@ -48,4 +48,7 @@
 - In this assignment I conducted a risk assessment report to determine the vulnerbilities within an organizations security measures.
 - [Security Risk Assessment Report](https://docs.google.com/document/d/18sRlFYBf3dq2a9wOI6thGJvD-9V3QCdKipwV5hvHlgA/edit?usp=sharing)
 
+### Assignment 5 - Home Asset Inventory
+- In this assignment I created an example inventory of assets that are commonly found within homes. 
+- [Home Asset Inventory](https://docs.google.com/spreadsheets/d/1oglPsalGPnFwfg5Wc7UCoiM30khCBJhZoYQFxivbEAE/edit?usp=sharing)
 
