@@ -52,3 +52,6 @@
 - In this assignment I created an example inventory of assets that are commonly found within homes. 
 - [Home Asset Inventory](https://docs.google.com/spreadsheets/d/1oglPsalGPnFwfg5Wc7UCoiM30khCBJhZoYQFxivbEAE/edit?usp=sharing)
 
+### Assignment 6 - Risk Register
+- In this assignment I determined risk levels based on different situations taking place within my company. 
+- [Risk Register](https://docs.google.com/document/d/1mNRaidVmbC8C17ripvNsO61tDM7ueo0ePuH6kv15HX8/edit?usp=sharing)
