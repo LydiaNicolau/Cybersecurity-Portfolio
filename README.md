@@ -55,3 +55,7 @@
 ### Assignment 6 - Risk Register
 - In this assignment I determined risk levels based on different situations taking place within my company. 
 - [Risk Register](https://docs.google.com/document/d/1mNRaidVmbC8C17ripvNsO61tDM7ueo0ePuH6kv15HX8/edit?usp=sharing)
+
+### Assignment 7 - Access Control
+- In this assignment I assessed the access controls used by a business after a security event took place.
+- [Access Control](https://docs.google.com/document/d/1Mh4D3pummEwLWMsM7GmlVKGjG6M7MLMuUYvZjiTzzEw/edit?usp=sharing)
