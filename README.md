@@ -31,6 +31,10 @@
 - This project displays my ability to utilize SQL within an organizations database to quickly find necessary information.
 - [Apply Filters To SQL Queries](https://docs.google.com/document/d/10k_jzFIuJCZJvj2DfEiclvU5fbhG4c4c-4J57I7jO-M/edit?usp=sharing)
 
+### Project 6 - Analyzing A Vulnerable System
+- In this project, I analyzed a small business’s vulnerable system and completed an assessment report identifying its vulnerabilities.
+- [Vulnerability Assessment Report](https://docs.google.com/document/d/1X9pbvWwQuEHJlQUIDPqacfBixqY9_c6t1ydpCpWit8U/edit?usp=sharing)
+
 # Relative Assignments
 ### Assignment 1 - Incident Report: Network Traffic Analysis
 - This assignment highlights my ability to detect issues and their causes in network traffic during a security event.
