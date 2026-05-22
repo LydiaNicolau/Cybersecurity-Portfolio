@@ -7,8 +7,8 @@
 - Communication Studies B.A.
 
 # Work History
-- The University of Rhode Island - In Person - Teachers Assistant [Computer Science/Writing] (Jan. 2026 - May. 2026)
-- Johnson & Wales University - Remote/RI - Teachers Assistant [Business] (Aug. 2024 - Dec. 2024)
+- The University of Rhode Island - Teachers Assistant: Tech Lead [Computer Science/Writing] (Jan. 2026 - May. 2026)
+- Scrumptions Bakery - Assistant Baker (Jun. 2018 - Aug. 2022)
 
 # Projects
 ### Project 1 - Professional Statement
